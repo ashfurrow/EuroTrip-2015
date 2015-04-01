@@ -13,4 +13,4 @@ Do you have a couch? Or a carpeted floor? A manger, maybe? We're not picky. We'd
 | -------- | ---- | ------------ | --------------
 | [Istanbul Tech Talks](http://www.istanbultechtalks.com) | Istanbul | 25 April | 28 April
 | TBD | Berlin | 28 April | TBD
-| [UIKonf](http://www.uikonf.com) | Berlin | TBD | TBD 
+| [UIKonf](http://www.uikonf.com) | Berlin | 17 May | 20 May 
