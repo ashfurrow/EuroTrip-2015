@@ -12,9 +12,12 @@ Do you have a couch? Or a carpeted floor? A manger, maybe? We're not picky. We'd
 | To Visit | City | Arrival Date | Departure Date
 | -------- | ---- | ------------ | --------------
 | [Istanbul Tech Talks](http://www.istanbultechtalks.com) | Istanbul | 25 April | 28 April
-| Friend | Berlin | 28 April | 5 May
+| Friend | Berlin | 28 April | 4 May
+| TBD | TBD | 4 May | 5 May
 | Friend | Hamburg | 5 May | 11 May
-| TBD | TBD | 11 May | TBD
+| TBD | TBD | 4 May | 5 May
+| Friend | Murnau | 12 May | 14 May
+| TBD | TBD | 14 May | TBD
 | [UIKonf](http://www.uikonf.com) | Berlin | 17 May | 20 May 
 
 ![Mexico 2013](https://scontent-lga.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/1236488_10153172345200104_1539918335_n.jpg?oh=789e80fb5735b91f551b8aed1bedd14b&oe=55B23528)
