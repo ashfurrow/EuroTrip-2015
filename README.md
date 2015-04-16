@@ -16,7 +16,7 @@ Do you have a couch? Or a carpeted floor? A manger, maybe? We're not picky. We'd
 | Friend | Hamburg | 4 May | 11 May
 | No one (yet!) | Frankfurt | 4 May | 5 May
 | Friend | Murnau | 12 May | 14 May
-| TBD | TBD | 14 May | 17 May
+| Friend | Berlin | 14 May | 17 May
 | [UIKonf](http://www.uikonf.com) | Berlin | 17 May | 20 May 
 
 ![Mexico 2013](https://scontent-lga.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/1236488_10153172345200104_1539918335_n.jpg?oh=789e80fb5735b91f551b8aed1bedd14b&oe=55B23528)
